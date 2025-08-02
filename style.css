@@ -1,7 +1,7 @@
 body {
+    padding: 5em;
     text-align: center;
-    font-family: 'Arial';
-    background: darkblue;
-    color: white;
-
+    font-family: 'Courier New';
+    background: #000040;
+    color: azure;
 }
